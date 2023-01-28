@@ -1,0 +1,7 @@
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\WebAppProject.exe
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\WebAppProject.dll
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\WebAppProject.deps.json
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\WebAppProject.runtimeconfig.json
+C:\Users\SAHU JI\Documents\C-SharpPractice\WebAppProject\bin\Debug\net7.0\publish\WebAppProject.pdb
